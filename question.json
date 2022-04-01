@@ -1,0 +1,114 @@
+[{
+        "question": "What is a significant component?",
+        "a": "A component financially significant to the group (i.e. size)",
+        "b": "A component unlikely to include significant risks of material misstatement of the group financial statements due to its specific nature or circumstances (i.e. specific risks)",
+        "c": "Neither (a) nor (b)",
+        "d": "(a) and (b)",
+        "answer": "a"
+    },
+    {
+        "question": "Why is the concept of a significant component important?",
+        "a": "Audit work effort can be focused on components with the lower risks",
+        "b": "To determine the direction of the group audit",
+        "c": "To determine what type of audit procedure is required for the management to perform",
+        "d": "To find out what is the biggest business component of the company",
+        "answer": "b"
+    },
+    {
+        "question": "Which is not one of the steps to identify financially significant components?",
+        "a": "Apply a percentage to a chosen benchmark (includes group assets, liabilities, cash flows, profit or turnover)",
+        "b": "Components exceeding 15% of a chosen benchmark may be considered significant.",
+        "c": "Choose a benchmark to use",
+        "d": "Identify subsidiaries which have the closest revenue with the parent company",
+        "answer": "d"
+    },
+    {
+        "question": "What work should auditors do for financially significant components?",
+        "a": "Perform an audit of the financial information of the component using component materiality.",
+        "b": "Perform an audit of the non-financial information of the component using component materiality",
+        "c": "Review accounting policies",
+        "d": "Review audit procedures",
+        "answer": "a"
+    },
+    {
+        "question": "What is not part of the work auditors should do for risk-based significant components?",
+        "a": "An audit of the financial information of the component using component materiality.",
+        "b": "An audit of one or more account balances, classes of transactions or disclosures relating to the likely significant risks of material misstatement of the group financial statements",
+        "c": "An audit of one or more account balances, classes of transactions or disclosures by the company's competitors and their risk mitigation strategies",
+        "d": "Specified audit procedures relating to the likely significant risks of material misstatement of the group financial statements",
+        "answer": "c"
+    },
+    {
+        "question": "SSA600:A43 states that Component Materiality (CM) should be set lower than Group Materiality (GM) so as to reduce to an appropriately low level the probability that the aggregate of uncorrected and undetected misstatements in the group financial statements exceeds group materiality.",
+        "a": "True",
+        "b": "False",
+        "c": "I'm not sure",
+        "d": "Ask prof",
+        "answer": "a"
+    },
+    {
+        "question": "How do we calculate the conservative component materiality for revenue as a benchmark?",
+        "a": "MACM x (Square Root of Component Revenue / Sum of Square Root of all the Component Revenue)",
+        "b": "Component % of Total Net Profit x Group Materiality",
+        "c": "(Component Revenue / Total Revenue) x Group Materiality",
+        "d": "Component Revenue / Total Revenue",
+        "answer": "c"
+    },
+    {
+        "question": "What is not a step in revenue recognition?",
+        "a": "Identify the contract",
+        "b": "Identify the separate performance obligations in the contract",
+        "c": "Allocating the cost price to the separate performance obligations",
+        "d": "Recognising revenue when or as performance obligation is satisfied",
+        "answer": "c"
+    },
+    {
+        "question": "A good or service that is promised to a customer is distinct if:",
+        "a": "The customer can benefit from the good or service either on its own or together with other resources that are readily available to the customer",
+        "b": "The entity’s promise to transfer the good or service to the customer is not separately identifiable from other promises in the contract",
+        "c": "The customer can benefit from the good or service neither on its own nor together with other resources that are readily available to the customer",
+        "d": "There is no transfer of good or service to the customer",
+        "answer": "a"
+    },
+    {
+        "question": "Which is not a suitable approach for estimating the stand-alone selling price?",
+        "a": "Adjusted market assessment",
+        "b": "Expected cost plus margin",
+        "c": "Residual approach",
+        "d": "Historical Prices",
+        "answer": "d"
+    },
+    {
+        "question": "Control does not include obtaining benefits from the asset.",
+        "a": "True",
+        "b": "False",
+        "c": "I'm not sure",
+        "d": "Ask Prof",
+        "answer": "b"
+    },
+    {
+        "question": "Given the facts, in Q2 Part II, USK would only have control over the Online Software System from",
+        "a": "First payment on Jun 20X1",
+        "b": "Current year end Dec 20X1",
+        "c": "10th payment on Mar 20X2",
+        "d": "Last payment on May 20X6",
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following is not a procedure of confirming the integrity of the principal owners?",
+        "a": "Gather information from knowledgeable independent 3rd parties",
+        "b": "Check the salaries of the principal owners",
+        "c": "Check for any significant changes in the management level",
+        "d": "All of the above",
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is not considered under SSA600?",
+        "a": "The complexity of the consolidation process",
+        "b": "The group structure, including both the legal and organisational structure ",
+        "c": "Obtaining an understanding at the acceptance or continuance stage",
+        "d": "Going concern basis of accounting",
+        "answer": "d"
+    }
+
+]
